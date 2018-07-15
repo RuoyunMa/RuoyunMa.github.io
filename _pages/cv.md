@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://ruoyunma.github.io/files/yitian_cv.pdf)
+
 Education
 ======
 * B.S. in Automation, Tsinghua University, 2015 - 2019 (expected)

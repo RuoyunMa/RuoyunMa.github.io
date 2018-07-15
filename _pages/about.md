@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
-
 I am currently a junior undergraduate at the Department of Automation, Tsinghua University. In my sophomore year, I joined Intelligent Vision Group (IVG) as a research assistant, supervised by [Prof. Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/). I also work on machine learning with [Prof. Qiang Liu](https://www.cs.utexas.edu/~lqiang/) at the University of Texas at Austin.  
 
-My long-term goal is to promote manufacturing automation, and I believe this can be achieved with a combination of machine learning, control theory and optimization. My current research interests lie in the general area of machine learning, particularly in deep neural networks.
+My long-term goal is to promote manufacturing automation, and I believe this can be achieved with a combination of machine learning, control theory and optimization. My current research interests lie in the general area of machine learning, particularly in deep neural networks.  
+
+I have avocational interests in world culture and history, with fundamental levels of Spanish, French and German languages. I am also fond of sports like ping-pong, badminton, tennis and swimming.
 
 Recent News
 ======
