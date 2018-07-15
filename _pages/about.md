@@ -13,4 +13,4 @@ This is Yi Tian's home on the web!
 A Short Bio
 ======
  
-I am currently a senior undergraduate at Department of Automation, Tsinghua University. I am abandoned by my girlfriend Ruoyun Ma, who I adore very much.
+I am currently a senior undergraduate at Department of Automation, Tsinghua University. My girlfriend is Ruoyun Ma. We cannot live without each other.
