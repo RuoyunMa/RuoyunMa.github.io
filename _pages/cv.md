@@ -22,15 +22,12 @@ Work experience
   * Intelligent Vision Group, Tsinghua University
   * Supervisor: [Prof. Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/)
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* **05/2018** Reviewer of IScIDE'2018 (International Conference on Intelligence Science and Big Data Engineering)
+* **03/2018** Reviewer of CASE'2018 (International Conference on Automation Science and Engineering)
+* **02/2018** Reviewer of ICPR'2018 (Int'l Conference on Pattern Recognition)
+* **09/2017 - now** Board Chairman of Spark Program, Tsinghua University
+* **06/2017 - 06/2018** Vice President of Student Association of Science & Technology, Department of Automation, Tsinghua University
+* **06/2016 - 06/2017** Director of Student Association of Science & Technology, Department of Automation, Tsinghua University
+* **06/2016 - 06/2017** Vice Director of the Office of Student Association of Science & Technology, Tsinghua University
