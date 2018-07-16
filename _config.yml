@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi Tian"
+title                    : "Ruoyun Ma"
 title_separator          : "-"
-name                     : &name "Yi Tian"
-description              : &description "Undergradute, Department of Automation, Tsinghua Univeristy"
+name                     : &name "Ruoyun Ma"
+description              : &description "Undergradute, School of Environment, Tsinghua Univeristy"
 url                      : https://RuoyunMa.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RuoyunMa/RuoyunMa.github.io"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi Tian"
-  avatar           : "profile.jpg"
-  bio              : "Undergraduate, Department of Automation, Tsinghua University"
+  name             : "Ruoyun Ma"
+  avatar           : "bio-photo.jpg"
+  bio              : "Undergraduate, School of Environment, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   googlescholar    : 
-  email            : "tianyi15@mails.tsinghua.edu.cn"
+  email            : "mry15@mails.tsinghua.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Siarnold"
+  github           : "RuoyunMa"
   google_plus      :
   keybase          :
   instagram        :
