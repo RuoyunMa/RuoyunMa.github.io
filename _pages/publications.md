@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Computer Vision
 
-{% include base_path %}
+<b>[ActionRecognition in RGB-D Egocentric Videos](http://ruoyunma.github.io/publications/2017-05-09-RDEV)</b> <br>
+Yansong Tang, <b>Yi Tian<b>, Jiwen Lu, Jianjiang Feng and Jie Zhou <i>Accepted by IEEE ICIP 2017.</i>.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
