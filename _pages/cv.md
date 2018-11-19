@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environment Engineering, Tsinghua University, China. 2015 - 2019(Expected)
-* B.S. in Economics, Tsinghua University, China. 2016 - 2019(Expected)
+* B.S. in Environment Engineering, Tsinghua University, China. 2015 - 2019 (Expected)
+* B.S. in Economics, Tsinghua University, China. 2016 - 2019 (Expected)
 
 Experience
 ======
