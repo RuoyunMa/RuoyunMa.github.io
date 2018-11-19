@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](../files/ruoyunma_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](../files/RuoyunMa_1119.pdf)
 
 Education
 ======
