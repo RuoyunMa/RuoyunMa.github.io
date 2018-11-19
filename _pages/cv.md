@@ -13,4 +13,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environment Engineering, Tsinghua University, 2015 - 2019 (expected)
+* B.S. in Environment Engineering, School of Environment, Tsinghua University, China. 2015 - 2019 (expected)
+* B.S. in Economics, School of Economics and Management, Tsinghua University, China. 2016 - 2019 (expected)
+
+Experience
+======
+* Visiting Research Student, University of Michigan, Ann Arbor, USA. 2018.7 - 2018.8
+** Lab for Innovative Mobility System, CEE. Advisor: Prof. Yafeng Yin.
