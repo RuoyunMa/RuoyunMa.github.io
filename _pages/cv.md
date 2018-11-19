@@ -19,4 +19,4 @@ Education
 Experience
 ======
 * Visiting Research Student, University of Michigan, Ann Arbor, USA. 2018.7 - 2018.8
-** Lab for Innovative Mobility System, CEE. Advisor: Prof. Yafeng Yin.
+   * Lab for Innovative Mobility System, CEE. Advisor: Prof. Yafeng Yin.
