@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](../files/RuoyunMa_1119.pdf)
+[Click to View My Up-to-date Curriculum Vitae (PDF)](../files/CV_Ruoyun Ma_Upload1120.pdf)
 
 Education
 ======
@@ -22,10 +22,10 @@ Research Experience
 * Visiting Research Student, University of Michigan, Ann Arbor, USA. 2018.7 - 2018.8
    * Lab for Innovative Mobility System, CEE. Advisor: Prof. Yafeng Yin.
    * Project: Developing an Agent-based Model of Ride-sourcing Electric Vehicles for Charging Station Optimization.
-     [Video of the model[preliminary version]](https://youtu.be/sCzTQcV4E80）
+     [[Video of the model (preliminary version)]](https://youtu.be/sCzTQcV4E80)
 
 
-* Principal Researcher, Tsinghua University, China. 2016.11 - present
+* Research assistant, Tsinghua University, China. 2016.11 - Present
    * School of Environment, Advisor: Prof. Ye Wu.
    * Project: The Development of Urban Driving Cycles for Private Cars Based on Markov Chain Process.
    * Project: The Application of Driving Cycles on Vehicle Energy Consumption Evaluation.
