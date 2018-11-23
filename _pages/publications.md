@@ -6,7 +6,7 @@ author_profile: true
 
 **Publication**
 -----
-* **Ruoyun Ma**, Xiaoyi He, Shaojun Zhang, Ye Wu*, Wei Shen, Weijian Han. Variations of vehicle energy consumption informed by real-world GPS trajectory data and driving cycle. Submitted to Journal of Cleaner Production. [[Abstract]](../files/paperAbstract2.0.pdf)
+* **Ruoyun Ma**#, Xiaoyi He#, Ye Wu*, Shen Lu, Yali Zheng, Boya Zhou. Real-world driving cycles and energy consumption informed by large-sized vehicle  trajectory data. Submitted to Journal of Cleaner Production. [[Abstract]](../files/paperAbstract2.0.pdf)
 
 **Conference**
 -----
