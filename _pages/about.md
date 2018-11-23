@@ -21,4 +21,4 @@ Thank you. ♪(´ε｀ )
 I have uploaded a video of RSEV behavior model. [Click here to view the video](https://youtu.be/sCzTQcV4E80)
 
 *2018.11.18*   
-I have uploaded the abstract of the driving cycle project, which was submitted to Journal of Cleaner Production. [Click here to view the abstract](../files/paperAbstract.pdf)
+I have uploaded the abstract of the driving cycle project, which was submitted to Journal of Cleaner Production. [Click here to view the abstract](../files/paperAbstract2.0.pdf)
