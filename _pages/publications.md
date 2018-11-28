@@ -6,7 +6,7 @@ author_profile: true
 
 **Publication**
 -----
-* **Ruoyun Ma**#, Xiaoyi He#, Ye Wu*, Shen Lu, Yali Zheng, Boya Zhou. Real-world driving cycles and energy consumption informed by large-sized vehicle  trajectory data. Submitted to Journal of Cleaner Production. [[Abstract]](../files/paperAbstract2.0.pdf)
+* **Ruoyun Ma**#, Xiaoyi He#, Yali Zheng, Boya Zhou, Sheng Lu, Ye Wu*. Real-world driving cycles and energy consumption informed by large-sized vehicle trajectory data. Submitted to Journal of Cleaner Production. [[Abstract]](../files/paperAbstract3.0.pdf)
 
 **Conference**
 -----
