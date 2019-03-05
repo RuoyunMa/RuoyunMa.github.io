@@ -10,7 +10,7 @@ author_profile: true
 
 **Conference**
 -----
-* **Ruoyun Ma**, Xiaoyi He, Ye Wu*.  Using an iterative Markov Chain process to develop driving cycles based on large-scale GPS data: a case study in Beijing. Poster presented at: 22nd International Transport and Air Pollution Conference, 2017 Nov 15-16, Zurich, Switzerland. [[Poster]](../files/TAPposter－MRY4.0.pdf)
+* **Ruoyun Ma**, Xiaoyi He, Ye Wu*.  Using an iterative Markov Chain process to develop driving cycles based on large-scale GPS data: a case study in Beijing. Poster presented at: 22nd International Transport and Air Pollution Conference, 2017 Nov 15-16, Zurich, Switzerland. [[Poster]](../files/TAPposter_MRY4.0.pdf)
 
 **Patents**
 -----
