@@ -24,7 +24,7 @@ My paper *Real-world driving cycles and energy consumption informed by large-siz
 
 
 *2019.02.01*  
-My cv is renewed with updates of 2018 Fall course scores.
+My CV is renewed with updates of 2018 Fall course scores.
 
 
 *2018.12.28*  
