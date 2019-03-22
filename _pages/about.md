@@ -19,7 +19,7 @@ Please wish me luck o(≧v≦)o
 Thank you!
 
 *2019.03.22*   
-My paper *Real-world driving cycles and energy consumption informed by large-sized vehicle trajectory data* is online now. [click here to view the online version](https://www.sciencedirect.com/science/article/pii/S0959652619306857?dgcid=coauthor)    
+My paper *Real-world driving cycles and energy consumption informed by large-sized vehicle trajectory data* is online now. [Click here to view the online version](https://www.sciencedirect.com/science/article/pii/S0959652619306857?dgcid=coauthor)    
 
 
 *2019.03.05*  
