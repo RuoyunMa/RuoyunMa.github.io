@@ -18,6 +18,10 @@ I have been preparing to apply for graduate programs these days.
 Please wish me luck o(≧v≦)o  
 Thank you!
 
+*2019.03.22*
+My paper *Real-world driving cycles and energy consumption informed by large-sized vehicle trajectory data* is online now. [click here to view online version](https://www.sciencedirect.com/science/article/pii/S0959652619306857?dgcid=coauthor)
+
+
 *2019.03.05*  
 The work I participated in *Cradle-to-Gate Greenhouse Gas (GHG) Burdens for Aluminum and Steel Production and Cradle-to-Grave GHG Benefits of Vehicle Lightweighting in China* is submitted to Applied Energy.
 
