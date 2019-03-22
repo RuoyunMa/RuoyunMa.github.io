@@ -6,7 +6,7 @@ author_profile: true
 
 **Publication**
 -----
-* **Ruoyun Ma**#, Xiaoyi He#, Yali Zheng, Boya Zhou, Sheng Lu, Ye Wu*. Real-world driving cycles and energy consumption informed by large-sized vehicle trajectory data. Accepted by Journal of Cleaner Production. [[Abstract]](../files/paperAbstract4.0.pdf)  
+* **Ruoyun Ma**#, Xiaoyi He#, Yali Zheng, Boya Zhou, Sheng Lu, Ye Wu*. Real-world driving cycles and energy consumption informed by large-sized vehicle trajectory data. Journal of Cleaner Production, 2019, 223: 564-574.
 * Ye Wu*, Xiaoyi He, Hyung Chul Kim, Timothy J. Wallington, Shaojun Zhang, Wei Shen, Robb De Kleine, **Ruoyun Ma**, Yali Zheng, Boya Zhou. Cradle-to-Gate Greenhouse Gas (GHG) Burdens for Aluminum and Steel Production and Cradle-to-Grave GHG Benefits of Vehicle Lightweighting in China. Submitted to Applied Energy.  
 
 **Conference**
