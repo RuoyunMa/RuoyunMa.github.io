@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruoyun Ma"
+title                    : "?"
 title_separator          : "-"
-name                     : &name "Ruoyun Ma"
-description              : &description "Undergradute, School of Environment, Tsinghua Univeristy"
-url                      : https://RuoyunMa.github.io # the base hostname & protocol for your site 
+name                     : &name "?"
+description              : &description "?"
+url                      : # https://RuoyunMa.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RuoyunMa/RuoyunMa.github.io"
+repository               : # "RuoyunMa/RuoyunMa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
